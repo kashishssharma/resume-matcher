@@ -1,0 +1,2 @@
+I am a Python developer with experience in NLP and FastAPI.
+Built backend systems and worked on data processing projects.
